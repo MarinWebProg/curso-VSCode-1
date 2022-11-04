@@ -4,7 +4,7 @@ command + P : Markdown Open Preview
 command + P : Markdown Open Preview to the side
 
 Ctrl + P : Markdown Open Preview
-Ctrl + P : Markdown Open Preview to the side
+Ctrl + P : Markdown Open Preview to the side este jala
 ```
 
 # Dillinger
